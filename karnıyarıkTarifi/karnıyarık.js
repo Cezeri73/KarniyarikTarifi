@@ -1,0 +1,1 @@
+window.alert("AFİYET OLSUN !")
